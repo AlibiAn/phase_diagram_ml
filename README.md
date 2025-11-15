@@ -40,9 +40,9 @@ Trained machine learning models to predict **eutectic temperatures** and **phase
 ---
 
 ## Key Skills I Learned
-Data preprocessing and cleaning (~9200-> ~1500 samples)
-Feature engineering from materials data  
-Machine learning regression (XGBoost)  
-Avoiding data leakage  
-Model evaluation and visualization  
-Hyperparameter tuning (0.64 → 0.6933 R²)  
+- Data preprocessing and cleaning (~9200-> ~1500 samples)
+- Feature engineering from materials data  
+- Machine learning regression (XGBoost)  
+- Avoiding data leakage  
+- Model evaluation and visualization  
+- Hyperparameter tuning (0.64 → 0.6933 R²)  
